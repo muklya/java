@@ -1,0 +1,29 @@
+.root {
+     -fx-background-image: url("back.png");
+     -fx-background-size: cover;
+}
+#loginbutton{
+    -fx-text-fill: red;
+    -fx-font-size: 13px;
+    -fx-font-family: "Times Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#808080, #e0e0d1);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#loginbutton:hover {
+    -fx-background-color: linear-gradient(#e0e0d1, #808080);
+}
+#usrinput {
+  -fx-background-image:url("usr.png");
+   -fx-background-size: 15px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: right 10px center;
+  -fx-text-fill: brown;
+}
+#passinput {
+  -fx-background-image:url("pass.png");
+  -fx-background-size: 16px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: right 10px center;
+  -fx-text-fill: brown;
+}

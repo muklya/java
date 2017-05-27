@@ -1,0 +1,17 @@
+.root{
+    -fx-background-image: url("reg.jpg");
+    -fx-background-size: cover;
+}
+.label{
+    -fx-text-fill:black;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+.button{
+   -fx-text-fill: red;
+   -fx-background-color: white;
+}
+.button:hover{
+   -fx-text-fill: white;
+   -fx-background-color: blue;
+}

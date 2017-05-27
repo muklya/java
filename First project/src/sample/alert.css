@@ -1,0 +1,9 @@
+.dialog{
+    -fx-background-color: #f9d900;
+    -fx-font-size: 18px;
+}
+.label{
+    -fx-font-size:14px;
+    -fx-text-fill: red;
+    -fx-padding: 0 0 0 0;
+}

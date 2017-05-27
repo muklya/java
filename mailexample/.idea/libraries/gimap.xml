@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gimap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../prj/mailLibs/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../prj/mailLibs/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../prj/mailLibs/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../prj/mailLibs/pop3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
