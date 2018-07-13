@@ -14,7 +14,7 @@ import java.nio.charset.Charset;
  */
 public class vk{
     public static void main(String[] args) throws Exception {
-        String token = "082e9d77ecea7e6b3b1c211eb96fc132812dba67224075083699e6bd097ebcc2d0f15057f33a6b35a8c95";
+        String token = "your_token";
         String address  = "https://api.vk.com/method/friends.get?access_token="+token;
         JSONParser parser = new JSONParser();
         URL url = new URL(address);
